@@ -1,4 +1,5 @@
-Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble
+# Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble
+This repository is no longer maintained.
 
 ## Installation
 This codebase is based on rlkit (https://github.com/vitchyr/rlkit) and D4RL (https://github.com/rail-berkeley/d4rl). <br/>
